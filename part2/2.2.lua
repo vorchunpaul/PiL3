@@ -1,4 +1,4 @@
-x = .0e12 print(x)      --> 0 btw is 0.000000000000 or 0 ^ 12 
+x = .0e12 print(x)      --> 0 btw is 0.000000000000 or 0 * (10 ^ 12) 
 -- x = .e12 print(x)    --> no valid, btw not base to exponentiation
 -- x = 0.0e print(x)    --> no valid, btw not base to exponentiation 
 x = 0x12 print(x)       --> 18
